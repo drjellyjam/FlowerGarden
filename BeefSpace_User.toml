@@ -1,0 +1,227 @@
+FileVersion = 1
+LastConfig = "Debug"
+LastPlatform = "Win64"
+RecentFilesList = ["src\\World.bf", "src\\toolies\\TextureManager.bf", "src\\Game.bf", "src\\entitys\\Player.bf", "src\\toolies\\MeshData.bf", "src\\entitys\\Petal.bf", "src\\Chunk.bf", "src\\entitys\\Flower.bf", "src\\Entity.bf", "Disassembly", "src\\toolies\\StringBeans.bf", "Disassembly", "Disassembly"]
+
+[MainWindow]
+X = 0
+Y = 0
+Width = 655
+Height = 455
+ShowKind = "ShowMaximized"
+
+[MainDockingFrame]
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets]]
+RequestedWidth = 606.0
+RequestedHeight = 949.0
+SizePriority = 949.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 294.0
+RequestedHeight = 949.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Workspace"
+TabWidth = 111.6
+TabIsPinned = false
+Type = "ProjectPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets]]
+RequestedWidth = 1621.5
+RequestedHeight = 462.0
+SizePriority = 1621.5
+Type = "DockingFrame"
+SplitType = 2
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+IsFillWidget = true
+Permanent = true
+RequestedWidth = 1665.5
+RequestedHeight = 634.5
+SizePriority = 634.5
+DefaultDocumentsTabbedView = true
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "TextureManager.bf"
+TabWidth = 142.4
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\toolies\\TextureManager.bf"
+CursorPos = 527
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Petal.bf"
+TabWidth = 70.8
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\entitys\\Petal.bf"
+CursorPos = 320
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Flower.bf"
+TabWidth = 80.4
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\entitys\\Flower.bf"
+CursorPos = 469
+VertPos = 43.12656
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "MeshData.bf"
+TabWidth = 99.6
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\toolies\\MeshData.bf"
+CursorPos = 1432
+VertPos = 1434.613
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "StringBeans.bf"
+TabWidth = 110.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\toolies\\StringBeans.bf"
+CursorPos = 415
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Chunk.bf"
+TabWidth = 79.6
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Chunk.bf"
+CursorPos = 384
+VertPos = 167.5897
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Player.bf"
+TabWidth = 77.2
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\entitys\\Player.bf"
+CursorPos = 1508
+VertPos = 630.0233
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Entity.bf"
+TabWidth = 74.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Entity.bf"
+CursorPos = 822
+VertPos = 396.1261
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Game.bf"
+TabWidth = 76.4
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\Game.bf"
+CursorPos = 389
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "World.bf"
+TabWidth = 78.0
+TabIsPinned = false
+Type = "SourceViewPanel"
+FilePath = "src\\World.bf"
+CursorPos = 3054
+VertPos = 1586.51
+ProjectName = "flowergarden"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 312.0
+RequestedHeight = 312.0
+Type = "DockingFrame"
+SplitType = 1
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 312.0
+RequestedHeight = 312.0
+SizePriority = 1918.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Memory"
+TabWidth = 97.2
+TabIsPinned = false
+Type = "MemoryPanel"
+AutoResize = "Auto_Mul8"
+RequestedWidth = 300.0
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Watch"
+TabWidth = 85.2
+TabIsPinned = false
+Type = "WatchPanel"
+Columns = [{Width = 250.0}, {Width = 250.0}, {Width = 250.0}]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs.Items]]
+EvalStr = ""
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets]]
+RequestedWidth = 312.0
+RequestedHeight = 312.0
+SizePriority = 1918.0
+Type = "TabbedView"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Find Results"
+TabWidth = 117.2
+TabIsPinned = false
+Type = "FindResultsPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Threads"
+TabWidth = 94.0
+TabIsPinned = false
+Type = "ThreadPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Call Stack"
+TabWidth = 103.6
+TabIsPinned = false
+Type = "CallStackPanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "Immediate"
+TabWidth = 109.2
+TabIsPinned = false
+Type = "ImmediatePanel"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.DockedWidgets.DockedWidgets.Tabs]]
+Active = true
+TabLabel = "Output"
+TabWidth = 89.2
+TabIsPinned = false
+Type = "OutputPanel"
+
+[[BookmarkFolders]]
+Title = ""
+
+[OutputFilters]
+ModuleLoadMessages = false
+ModuleUnloadMessages = false
+ProcessExitMessages = false
+ThreadCreateMessages = false
+ThreadExitMessages = false
+SymbolLoadMessages = false
+ProgramOutput = false

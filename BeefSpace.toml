@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {flowergarden = {Path = "."}, raylib-beef = {Path = "../../../../Users/Admin/Documents/raylib-beef-main/raylib-beef-main/raylib-beef"}, FastNoiseLite = {Path = "../../../../Users/Admin/Documents/FastNoise_Beef-master/FastNoise_Beef-master"}}
+
+[Workspace]
+StartupProject = "flowergarden"
