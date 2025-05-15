@@ -1,0 +1,22 @@
+#version 330
+
+
+
+attribute vec3 vertexPosition;
+
+attribute vec2 vertexTexCoord;
+
+attribute vec4 vertexColor;
+
+in vec2 fragTexCoord;
+in vec4 fragColor;
+
+void main() 
+
+{
+
+	fragTexCoord = vertexTexCoord;
+
+	fragColor = vertexColor;
+
+}
